@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+.top {
+    height: 40px;
+    width: 100%;
+     background: linear-gradient(
+        to right,
+        #f487b1 0%,
+        #ffae5c 50%,
+        #f487b1 100%
+    );
+}
+
+.logo {
+    color: black;
+    font-weight: 540;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 11px;
+    left: 190px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
